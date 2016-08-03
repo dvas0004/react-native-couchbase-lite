@@ -153,7 +153,7 @@ $ pod install
 	}
 	```
 
-* Register the module in `getPackages` of `MainActivity.java`
+* Register the module in `getPackages` of `MainApplication.java`
 
   ```
   @Override
